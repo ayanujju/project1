@@ -4,7 +4,7 @@ int main()
 	int n,a,b,Choice;
 	printf("Enter the two numbers: ");
 	scanf("%d %d",&a,&b);
-	printf("Enter your Choice \n1->ADDITION\n2->SUBSTRACTION\n3->MULTIPLICATION\n4->DIVISION\n");
+	printf("Enter your Choice No. \n1->ADDITION\n2->SUBSTRACTION\n3->MULTIPLICATION\n4->DIVISION\n");
 	scanf("%d",&Choice);
 	switch(Choice)
 	{
