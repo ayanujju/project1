@@ -1,2 +1,2 @@
 # project1
-dummy
+A simple Calculator in C language
